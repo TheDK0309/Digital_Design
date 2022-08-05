@@ -1,0 +1,597 @@
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 235,0 14 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 154,0 15 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 159,0 16 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 144,0 17 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 134,0 18 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 124,0 19 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 149,0 20 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 129,0 21 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 139,0 22 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN c7_t2_final_assembly
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 41,0 38 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 0,0 45 2 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 997,0 50 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 597,0 51 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 603,0 52 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1023,0 53 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1029,0 54 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 690,0 55 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 585,0 56 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1017,0 57 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 591,0 58 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 933,0 59 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1912,0 60 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1263,0 61 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 678,0 62 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1035,0 63 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1041,0 64 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1047,0 65 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1192,0 66 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1198,0 67 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1204,0 68 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 579,0 69 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 561,0 70 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 573,0 71 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 708,0 72 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1059,0 73 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 555,0 74 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 696,0 75 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 76
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 77
+LIBRARY alien_game_lib
+DESIGN c2_t4_right_shifter
+VIEW tbl
+GRAPHIC 1305,0 79 0 
+DESIGN c2_t4_right_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 81 0 
+DESIGN c2_t4_right_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 82 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1802,0 85 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 134,0 87 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 124,0 88 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 129,0 89 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 139,0 90 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 154,0 91 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 1038,0 92 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 144,0 93 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 159,0 94 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 1804,0 95 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 321,0 98 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 139,0 100 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 124,0 101 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 134,0 102 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 144,0 103 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 129,0 104 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 159,0 105 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 149,0 106 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 154,0 107 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 459,0 110 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 134,0 112 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 139,0 113 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 124,0 114 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 144,0 115 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 129,0 116 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 154,0 117 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 159,0 118 0 
+DESIGN c3_t2_bullet
+VIEW symbol.sb
+GRAPHIC 149,0 119 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 417,0 122 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 124,0 124 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 129,0 125 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 159,0 126 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 134,0 127 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 139,0 128 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 757,0 129 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 258,0 130 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 541,0 131 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 762,0 132 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 154,0 133 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1902,0 136 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 141,0 138 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 1289,0 139 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 126,0 140 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 131,0 141 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 136,0 142 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 166,0 143 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 161,0 144 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 151,0 145 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 146,0 146 0 
+DESIGN c5_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 156,0 147 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1727,0 150 0 
+DESIGN c6_t1_victory_effect_fsm
+VIEW symbol.sb
+GRAPHIC 260,0 152 0 
+DESIGN c6_t1_victory_effect_fsm
+VIEW symbol.sb
+GRAPHIC 116,0 153 0 
+DESIGN c6_t1_victory_effect_fsm
+VIEW symbol.sb
+GRAPHIC 121,0 154 0 
+DESIGN c6_t1_victory_effect_fsm
+VIEW symbol.sb
+GRAPHIC 161,0 155 0 
+DESIGN c6_t1_victory_effect_fsm
+VIEW symbol.sb
+GRAPHIC 126,0 156 0 
+DESIGN c6_t1_victory_effect_fsm
+VIEW symbol.sb
+GRAPHIC 131,0 157 0 
+LIBRARY pre_made
+DESIGN z_black_box_y
+VIEW struct
+GRAPHIC 109,0 160 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 176
+LIBRARY alien_game_lib
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 178
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1305,0 181 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1802,0 182 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 321,0 183 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 459,0 184 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 417,0 185 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1902,0 186 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1727,0 187 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 109,0 188 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 191
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 668,0 193 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 758,0 196 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 807,0 209 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 870,0 222 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 235
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1305,0 237 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1257,0 239 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1265,0 240 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1802,0 242 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 519,0 244 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 702,0 245 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 710,0 246 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 531,0 247 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 999,0 248 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 587,0 249 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 593,0 250 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 935,0 251 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1914,0 252 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 321,0 254 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 714,0 256 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 525,0 257 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 581,0 258 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 575,0 259 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 537,0 260 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1031,0 261 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 692,0 262 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1019,0 263 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 459,0 265 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1265,0 267 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 645,0 268 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 543,0 269 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 653,0 270 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 549,0 271 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 599,0 272 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 605,0 273 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1025,0 274 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 417,0 276 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 587,0 278 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 593,0 279 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1594,0 280 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 599,0 281 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 605,0 282 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 609,0 283 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 692,0 284 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 680,0 285 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 615,0 286 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 710,0 287 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1902,0 289 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 935,0 291 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1914,0 292 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 491,0 293 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 505,0 294 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 557,0 295 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 581,0 296 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 563,0 297 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 575,0 298 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1061,0 299 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 698,0 300 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1727,0 302 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1737,0 304 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1490,0 305 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1484,0 306 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1194,0 307 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1206,0 308 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1200,0 309 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 109,0 311 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 795,0 313 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1049,0 314 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 563,0 315 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 801,0 316 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 698,0 317 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1037,0 318 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 1043,0 319 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 231,0 320 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 215,0 321 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 211,0 322 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 223,0 323 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 227,0 324 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 557,0 325 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+GRAPHIC 219,0 326 0 
+DESIGN c7_t2_final_assembly
+VIEW struct.bd
+NO_GRAPHIC 329

@@ -1,0 +1,2 @@
+In general we have successfully created the alien game with some basic features.
+We didn't managed enough time to create the black box component according to the Bonus tasks. Thus,the black box from premade library was used instead. It would be nice if we had more time to develop some additional features such as alien's health, random movement or some gradient visual effects after reset.

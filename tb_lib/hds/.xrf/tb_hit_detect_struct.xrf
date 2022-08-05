@@ -1,0 +1,216 @@
+DESIGN tb_hit_detect
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_hit_detect
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_hit_detect
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_hit_detect
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 808,0 38 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 806,0 39 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1705,0 40 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 772,0 41 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 784,0 42 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 740,0 43 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1699,0 44 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 480,0 45 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 849,0 46 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 752,0 47 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 49
+LIBRARY alien_game_lib
+DESIGN c5_t1_hit_detector
+VIEW struct
+GRAPHIC 1900,0 51 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 124,0 53 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 129,0 54 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 159,0 55 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 134,0 56 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 139,0 57 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 757,0 58 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 258,0 59 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 541,0 60 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 762,0 61 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 154,0 62 0 
+LIBRARY tb_lib
+DESIGN hit_testbench
+VIEW struct
+GRAPHIC 963,0 65 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 247,0 67 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 252,0 68 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 217,0 69 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 222,0 70 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 328,0 71 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 227,0 72 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 232,0 73 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 237,0 74 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 242,0 75 0 
+DESIGN hit_testbench
+VIEW symbol.sb
+GRAPHIC 257,0 76 0 
+LIBRARY tb_lib
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 79
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1900,0 82 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 963,0 83 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 86
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 831,0 88 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 91
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1900,0 93 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 798,0 95 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 788,0 96 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1707,0 97 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 756,0 98 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 776,0 99 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 728,0 100 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1701,0 101 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1811,0 102 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 744,0 103 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 718,0 104 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 963,0 106 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 718,0 108 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 843,0 109 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 798,0 110 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 788,0 111 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1707,0 112 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 756,0 113 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 776,0 114 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 728,0 115 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 1701,0 116 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+GRAPHIC 744,0 117 0 
+DESIGN tb_hit_detect
+VIEW struct.bd
+NO_GRAPHIC 120

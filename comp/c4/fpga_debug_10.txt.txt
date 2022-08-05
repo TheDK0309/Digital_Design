@@ -1,0 +1,5 @@
+1.1) x_coord output does shift to left when its value is x03. In addition, en_wr, which feeds wr signal to the  component is missing 
+1.2) At the AND gate "and_l_to_merge", the Active-Low input should be x_coord(7) instead of x_coord(0)
+
+2.1) We needed to figure out the synthesis setting in order to fit with the elaborated design. Then we setup the debug in sythesis tool. Finally, we test the implemented design on the FPGA in order to find the error.
+2.2) It took quite a bit more time to debug the ILA method as compare to the simulation because it takes time to generate the correct synthesized design that correctly reflect our elaborated design. Nevertheless, if we were to take into account the time and effort to write the testbench, it would probably take the same amount of time.

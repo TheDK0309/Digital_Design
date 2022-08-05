@@ -1,0 +1,1119 @@
+DocumentHdrVersion "1.1"
+Header (DocumentHdr
+version 2
+dialect 2
+dmPackageRefs [
+(DmPackageRef
+library "ieee"
+unitName "std_logic_1164"
+)
+(DmPackageRef
+library "ieee"
+unitName "std_logic_arith"
+)
+]
+libraryRefs [
+"ieee"
+]
+)
+version "13.1"
+appVersion "2019.3 (Build 4)"
+model (TruthTableDiag
+VExpander (VariableExpander
+vvMap [
+(vvPair
+variable "HDLDir"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hdl"
+)
+(vvPair
+variable "HDSDir"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds"
+)
+(vvPair
+variable "SideDataDesignDir"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds\\c6_t2_decremeter_length_two\\tbl.tt.info"
+)
+(vvPair
+variable "SideDataUserDir"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds\\c6_t2_decremeter_length_two\\tbl.tt.user"
+)
+(vvPair
+variable "SourceDir"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds"
+)
+(vvPair
+variable "appl"
+value "HDL Designer"
+)
+(vvPair
+variable "arch_name"
+value "tbl"
+)
+(vvPair
+variable "config"
+value "%(unit)_%(view)_config"
+)
+(vvPair
+variable "d"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds\\c6_t2_decremeter_length_two"
+)
+(vvPair
+variable "d_logical"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds\\c6_t2_decremeter_length_two"
+)
+(vvPair
+variable "date"
+value "12/ 7/2020"
+)
+(vvPair
+variable "day"
+value "Mon"
+)
+(vvPair
+variable "day_long"
+value "Monday"
+)
+(vvPair
+variable "dd"
+value "07"
+)
+(vvPair
+variable "entity_name"
+value "c6_t2_decremeter_length_two"
+)
+(vvPair
+variable "ext"
+value "<TBD>"
+)
+(vvPair
+variable "f"
+value "tbl.tt"
+)
+(vvPair
+variable "f_logical"
+value "tbl.tt"
+)
+(vvPair
+variable "f_noext"
+value "tbl"
+)
+(vvPair
+variable "graphical_source_author"
+value "Minh"
+)
+(vvPair
+variable "graphical_source_date"
+value "12/ 7/2020"
+)
+(vvPair
+variable "graphical_source_group"
+value "UNKNOWN"
+)
+(vvPair
+variable "graphical_source_host"
+value "DESKTOP-R6EVFEE"
+)
+(vvPair
+variable "graphical_source_time"
+value "00:31:05"
+)
+(vvPair
+variable "group"
+value "UNKNOWN"
+)
+(vvPair
+variable "host"
+value "DESKTOP-R6EVFEE"
+)
+(vvPair
+variable "language"
+value "VHDL"
+)
+(vvPair
+variable "library"
+value "alien_game_lib"
+)
+(vvPair
+variable "library_downstream_HdsLintPlugin"
+value "$HDS_PROJECT_DIR/alien_game_lib/designcheck"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/alien_game_lib/work"
+)
+(vvPair
+variable "library_downstream_QuestaSimCompiler"
+value "$HDS_PROJECT_DIR/alien_game_lib/work"
+)
+(vvPair
+variable "library_downstream_SvAssistantInvoke"
+value "$HDS_PROJECT_DIR/alien_game_lib/svassistant"
+)
+(vvPair
+variable "mm"
+value "12"
+)
+(vvPair
+variable "module_name"
+value "c6_t2_decremeter_length_two"
+)
+(vvPair
+variable "month"
+value "Dec"
+)
+(vvPair
+variable "month_long"
+value "December"
+)
+(vvPair
+variable "p"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds\\c6_t2_decremeter_length_two\\tbl.tt"
+)
+(vvPair
+variable "p_logical"
+value "D:\\Minh\\Master\\Tampere\\autumn_2020\\Digital_Design\\comp_exercises\\10\\alien_game\\alien_game_lib\\hds\\c6_t2_decremeter_length_two\\tbl.tt"
+)
+(vvPair
+variable "package_name"
+value "<Undefined Variable>"
+)
+(vvPair
+variable "project_name"
+value "alien_game"
+)
+(vvPair
+variable "series"
+value "HDL Designer Series"
+)
+(vvPair
+variable "task_DesignCompilerPath"
+value "<TBD>"
+)
+(vvPair
+variable "task_LeonardoPath"
+value "<TBD>"
+)
+(vvPair
+variable "task_ModelSimPath"
+value "C:\\intelFPGA\\17.1\\modelsim_ase\\win32aloem"
+)
+(vvPair
+variable "task_NC-SimPath"
+value "<TBD>"
+)
+(vvPair
+variable "task_PrecisionRTLPath"
+value "<TBD>"
+)
+(vvPair
+variable "task_QuestaSimPath"
+value "<TBD>"
+)
+(vvPair
+variable "task_VCSPath"
+value "<TBD>"
+)
+(vvPair
+variable "this_ext"
+value "tt"
+)
+(vvPair
+variable "this_file"
+value "tbl"
+)
+(vvPair
+variable "this_file_logical"
+value "tbl"
+)
+(vvPair
+variable "time"
+value "00:31:05"
+)
+(vvPair
+variable "unit"
+value "c6_t2_decremeter_length_two"
+)
+(vvPair
+variable "user"
+value "Minh"
+)
+(vvPair
+variable "version"
+value "2019.3 (Build 4)"
+)
+(vvPair
+variable "view"
+value "tbl"
+)
+(vvPair
+variable "year"
+value "2020"
+)
+(vvPair
+variable "yy"
+value "20"
+)
+]
+)
+LanguageMgr "Vhdl93LangMgr"
+uid 53,0
+optionalChildren [
+*1 (TruthTable
+uid 5,0
+optionalChildren [
+*2 (TextMatrixItem
+uid 6,0
+va (VaSet
+vasetType 1
+fg "39936,56832,65280"
+bg "39936,56832,65280"
+)
+col 1
+row 1
+text (Text
+uid 7,0
+va (VaSet
+)
+xt "0,0,2800,1000"
+st "data_in"
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*3 (TextMatrixItem
+uid 8,0
+va (VaSet
+vasetType 1
+fg "65535,65535,37120"
+bg "65535,65535,37120"
+)
+col 2
+row 1
+text (Text
+uid 9,0
+va (VaSet
+)
+xt "0,0,3200,1000"
+st "data_out"
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*4 (TextMatrixItem
+uid 10,0
+va (VaSet
+vasetType 1
+fg "0,65535,65535"
+bg "0,65535,65535"
+)
+col 1
+row 2
+text (Text
+uid 11,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"00\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*5 (TextMatrixItem
+uid 12,0
+va (VaSet
+vasetType 1
+fg "0,65535,65535"
+bg "0,65535,65535"
+)
+col 1
+row 3
+text (Text
+uid 13,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"01\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*6 (TextMatrixItem
+uid 14,0
+va (VaSet
+vasetType 1
+fg "0,65535,65535"
+bg "0,65535,65535"
+)
+col 1
+row 4
+text (Text
+uid 15,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"10\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*7 (TextMatrixItem
+uid 16,0
+va (VaSet
+vasetType 1
+fg "0,65535,65535"
+bg "0,65535,65535"
+)
+col 1
+row 5
+text (Text
+uid 17,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"11\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*8 (TextMatrixItem
+uid 18,0
+va (VaSet
+vasetType 1
+fg "65280,65280,46080"
+bg "65280,65280,46080"
+)
+col 2
+row 2
+text (Text
+uid 19,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"00\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*9 (TextMatrixItem
+uid 20,0
+va (VaSet
+vasetType 1
+fg "65280,65280,46080"
+bg "65280,65280,46080"
+)
+col 2
+row 3
+text (Text
+uid 21,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"00\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*10 (TextMatrixItem
+uid 22,0
+va (VaSet
+vasetType 1
+fg "65280,65280,46080"
+bg "65280,65280,46080"
+)
+col 2
+row 4
+text (Text
+uid 23,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"01\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+*11 (TextMatrixItem
+uid 24,0
+va (VaSet
+vasetType 1
+fg "65280,65280,46080"
+bg "65280,65280,46080"
+)
+col 2
+row 5
+text (Text
+uid 25,0
+va (VaSet
+)
+xt "0,0,1800,1000"
+st "\"10\""
+blo "0,800"
+tm "TableTextMgr"
+)
+)
+]
+colStart 1
+rowStart 1
+defaultColumnWidth 100
+defaultRowHeight 40
+columnWidths [
+100
+100
+100
+]
+rowHeight [
+20
+40
+40
+40
+40
+40
+]
+inputColumnLimit 2
+)
+]
+bg "65535,65535,65535"
+grid (Grid
+origin "0,0"
+isVisible 1
+isActive 1
+xSpacing 1000
+xySpacing 1000
+xShown 1
+yShown 1
+color "65535,0,0"
+)
+packageList *12 (PackageList
+uid 26,0
+stg "VerticalLayoutStrategy"
+textVec [
+*13 (Text
+uid 27,0
+va (VaSet
+)
+xt "0,0,5100,1000"
+st "Package List"
+blo "0,800"
+)
+*14 (MLText
+uid 28,0
+va (VaSet
+)
+xt "0,1000,10800,4000"
+st "LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;"
+tm "PackageList"
+)
+]
+)
+compDirBlock (MlTextGroup
+uid 29,0
+stg "VerticalLayoutStrategy"
+textVec [
+*15 (Text
+uid 30,0
+va (VaSet
+)
+xt "20000,0,27700,1000"
+st "Compiler Directives"
+blo "20000,800"
+)
+*16 (Text
+uid 31,0
+va (VaSet
+)
+xt "20000,1000,28900,2000"
+st "Pre-module directives:"
+blo "20000,1800"
+)
+*17 (MLText
+uid 32,0
+va (VaSet
+)
+xt "20000,2000,27600,4000"
+st "`resetall
+`timescale 1ns/10ps"
+tm "TtCompilerDirectivesTextMgr"
+)
+*18 (Text
+uid 33,0
+va (VaSet
+)
+xt "20000,4000,29200,5000"
+st "Post-module directives:"
+blo "20000,4800"
+)
+*19 (MLText
+uid 34,0
+va (VaSet
+)
+xt "20000,0,20000,0"
+tm "TtCompilerDirectivesTextMgr"
+)
+*20 (Text
+uid 35,0
+va (VaSet
+)
+xt "20000,5000,29000,6000"
+st "End-module directives:"
+blo "20000,5800"
+)
+*21 (MLText
+uid 36,0
+va (VaSet
+)
+xt "20000,6000,20000,6000"
+tm "TtCompilerDirectivesTextMgr"
+)
+]
+associable 1
+)
+windowSize "68,38,1086,728"
+viewArea "0,0,807,579"
+cachedDiagramExtent "0,0,0,0"
+pageBreakOrigin "0,0"
+defaultInputHdrTextMatrixItem (TextMatrixItem
+va (VaSet
+vasetType 1
+fg "39936,56832,65280"
+bg "39936,56832,65280"
+)
+col -1
+row -1
+text (Text
+va (VaSet
+)
+blo "0,0"
+tm "TableTextMgr"
+)
+)
+defaultOutputHdrTextMatrixItem (TextMatrixItem
+va (VaSet
+vasetType 1
+fg "65535,65535,37120"
+bg "65535,65535,37120"
+)
+col -1
+row -1
+text (Text
+va (VaSet
+)
+blo "0,0"
+tm "TableTextMgr"
+)
+)
+defaultInputColTextMatrixItem (TextMatrixItem
+va (VaSet
+vasetType 1
+fg "0,65535,65535"
+bg "0,65535,65535"
+)
+col -1
+row -1
+text (Text
+va (VaSet
+)
+blo "0,0"
+tm "TableTextMgr"
+)
+)
+defaultOutputColTextMatrixItem (TextMatrixItem
+va (VaSet
+vasetType 1
+fg "65280,65280,46080"
+bg "65280,65280,46080"
+)
+col -1
+row -1
+text (Text
+va (VaSet
+)
+blo "0,0"
+tm "TableTextMgr"
+)
+)
+archDeclarativeBlock *22 (BiTextGroup
+uid 37,0
+stg "VerticalLayoutStrategy"
+first (Text
+uid 38,0
+va (VaSet
+font "arial,12,1"
+)
+xt "0,0,16700,1500"
+st "Architecture Declarations"
+blo "0,1200"
+)
+second (MLText
+uid 39,0
+va (VaSet
+font "arial,12,0"
+)
+xt "0,1500,1000,3000"
+st " "
+tm "CommentText"
+)
+)
+archConcurrentStatementBlock *23 (BiTextGroup
+uid 40,0
+stg "VerticalLayoutStrategy"
+first (Text
+uid 41,0
+va (VaSet
+font "arial,12,1"
+)
+xt "0,0,15400,1500"
+st "Concurrent Statements"
+blo "0,1200"
+)
+second (MLText
+uid 42,0
+va (VaSet
+font "arial,12,0"
+)
+xt "0,1500,1000,3000"
+st " "
+tm "CommentText"
+)
+)
+processDeclarativeBlock *24 (BiTextGroup
+uid 43,0
+stg "VerticalLayoutStrategy"
+first (Text
+uid 44,0
+va (VaSet
+font "arial,12,1"
+)
+xt "0,0,14400,1500"
+st "Process Declarations"
+blo "0,1200"
+)
+second (MLText
+uid 45,0
+va (VaSet
+font "arial,12,0"
+)
+xt "0,1500,1000,3000"
+st " "
+tm "CommentText"
+)
+)
+sensitivityListBlock *25 (BiTextGroup
+uid 46,0
+stg "VerticalLayoutStrategy"
+first (Text
+uid 47,0
+va (VaSet
+font "arial,12,1"
+)
+xt "0,0,9600,1500"
+st "Sensitivity List"
+blo "0,1200"
+)
+second (MLText
+uid 48,0
+va (VaSet
+font "arial,12,0"
+)
+xt "0,1500,0,1500"
+tm "CommentText"
+)
+)
+globalActionsBlock *26 (BiTextGroup
+uid 49,0
+stg "VerticalLayoutStrategy"
+first (Text
+uid 50,0
+va (VaSet
+font "arial,12,1"
+)
+xt "0,0,10200,1500"
+st "Globals Actions"
+blo "0,1200"
+)
+second (MLText
+uid 51,0
+va (VaSet
+font "arial,12,0"
+)
+xt "0,1500,0,1500"
+tm "CommentText"
+)
+)
+genChar *27 (TtGenChar
+uid 52,0
+machineMode 1
+hdlStyle 1
+resetActions ""
+resetMode 1
+resetName ""
+resetCondition ""
+verilogResetSensitivity ""
+resetPolarity 0
+clockPolarity 0
+clockSigName ""
+clockCondition ""
+insertSetresetPragma 0
+setresetPragma 0
+insertCasePragma 0
+casePragma 0
+caseType 0
+blockType 0
+autoSensitivityList 1
+generateDefaultInCase 1
+)
+commonDM (CommonDM
+ldm (LogicalDM
+emptyRow *28 (LEmptyRow
+)
+uid 55,0
+optionalChildren [
+*29 (RefLabelRowHdr
+)
+*30 (TitleRowHdr
+)
+*31 (FilterRowHdr
+)
+*32 (RefLabelColHdr
+tm "RefLabelColHdrMgr"
+)
+*33 (RowExpandColHdr
+tm "RowExpandColHdrMgr"
+)
+*34 (GroupColHdr
+tm "GroupColHdrMgr"
+)
+*35 (NameColHdr
+tm "TruthTableNameColHdrMgr"
+)
+*36 (ModeColHdr
+tm "TruthTableModeColHdrMgr"
+)
+*37 (TypeColHdr
+tm "TruthTableTypeColHdrMgr"
+)
+*38 (BoundsColHdr
+tm "TruthTableBoundsColHdrMgr"
+)
+*39 (InitColHdr
+tm "TruthTableInitColHdrMgr"
+)
+*40 (EolColHdr
+tm "TruthTableEolColHdrMgr"
+)
+*41 (LeafLogPort
+port (LogicalPort
+lang 2
+decl (Decl
+n "data_in"
+t "std_logic_vector"
+b "(1 DOWNTO 0)"
+o 1
+)
+)
+uid 1,0
+)
+*42 (LeafLogPort
+port (LogicalPort
+lang 2
+m 1
+decl (Decl
+n "data_out"
+t "std_logic_vector"
+b "(1 DOWNTO 0)"
+o 2
+)
+)
+uid 3,0
+)
+]
+)
+pdm (PhysicalDM
+displayShortBounds 1
+editShortBounds 1
+uid 68,0
+optionalChildren [
+*43 (Sheet
+sheetRow (SheetRow
+headerVa (MVa
+cellColor "49152,49152,49152"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+)
+cellVa (MVa
+cellColor "65535,65535,65535"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+)
+groupVa (MVa
+cellColor "39936,56832,65280"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+)
+emptyMRCItem *44 (MRCItem
+litem &28
+pos 2
+dimension 20
+)
+uid 70,0
+optionalChildren [
+*45 (MRCItem
+litem &29
+pos 0
+dimension 20
+uid 71,0
+)
+*46 (MRCItem
+litem &30
+pos 1
+dimension 23
+uid 72,0
+)
+*47 (MRCItem
+litem &31
+pos 2
+hidden 1
+dimension 20
+uid 73,0
+)
+*48 (MRCItem
+litem &41
+pos 0
+dimension 20
+uid 2,0
+)
+*49 (MRCItem
+litem &42
+pos 1
+dimension 20
+uid 4,0
+)
+]
+)
+sheetCol (SheetCol
+propVa (MVa
+cellColor "0,49152,49152"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+textAngle 90
+)
+uid 74,0
+optionalChildren [
+*50 (MRCItem
+litem &32
+pos 0
+dimension 20
+uid 75,0
+)
+*51 (MRCItem
+litem &34
+pos 1
+dimension 50
+uid 76,0
+)
+*52 (MRCItem
+litem &35
+pos 2
+dimension 100
+uid 77,0
+)
+*53 (MRCItem
+litem &36
+pos 3
+dimension 50
+uid 78,0
+)
+*54 (MRCItem
+litem &37
+pos 4
+dimension 100
+uid 79,0
+)
+*55 (MRCItem
+litem &38
+pos 5
+dimension 100
+uid 80,0
+)
+*56 (MRCItem
+litem &39
+pos 6
+dimension 50
+uid 81,0
+)
+*57 (MRCItem
+litem &40
+pos 7
+dimension 80
+uid 82,0
+)
+]
+)
+fixedCol 4
+fixedRow 2
+name "Ports"
+uid 69,0
+vaOverrides [
+]
+)
+]
+)
+uid 54,0
+)
+genericsCommonDM (CommonDM
+ldm (LogicalDM
+emptyRow *58 (LEmptyRow
+)
+uid 84,0
+optionalChildren [
+*59 (RefLabelRowHdr
+)
+*60 (TitleRowHdr
+)
+*61 (FilterRowHdr
+)
+*62 (RefLabelColHdr
+tm "RefLabelColHdrMgr"
+)
+*63 (RowExpandColHdr
+tm "RowExpandColHdrMgr"
+)
+*64 (GroupColHdr
+tm "GroupColHdrMgr"
+)
+*65 (NameColHdr
+tm "GenericNameColHdrMgr"
+)
+*66 (TypeColHdr
+tm "GenericTypeColHdrMgr"
+)
+*67 (InitColHdr
+tm "GenericValueColHdrMgr"
+)
+*68 (PragmaColHdr
+tm "GenericPragmaColHdrMgr"
+)
+*69 (EolColHdr
+tm "GenericEolColHdrMgr"
+)
+]
+)
+pdm (PhysicalDM
+displayShortBounds 1
+editShortBounds 1
+uid 96,0
+optionalChildren [
+*70 (Sheet
+sheetRow (SheetRow
+headerVa (MVa
+cellColor "49152,49152,49152"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+)
+cellVa (MVa
+cellColor "65535,65535,65535"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+)
+groupVa (MVa
+cellColor "39936,56832,65280"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+)
+emptyMRCItem *71 (MRCItem
+litem &58
+pos 0
+dimension 20
+)
+uid 98,0
+optionalChildren [
+*72 (MRCItem
+litem &59
+pos 0
+dimension 20
+uid 99,0
+)
+*73 (MRCItem
+litem &60
+pos 1
+dimension 23
+uid 100,0
+)
+*74 (MRCItem
+litem &61
+pos 2
+hidden 1
+dimension 20
+uid 101,0
+)
+]
+)
+sheetCol (SheetCol
+propVa (MVa
+cellColor "0,49152,49152"
+fontColor "0,0,0"
+font "Tahoma,10,0"
+textAngle 90
+)
+uid 102,0
+optionalChildren [
+*75 (MRCItem
+litem &62
+pos 0
+dimension 20
+uid 103,0
+)
+*76 (MRCItem
+litem &64
+pos 1
+dimension 50
+uid 104,0
+)
+*77 (MRCItem
+litem &65
+pos 2
+dimension 100
+uid 105,0
+)
+*78 (MRCItem
+litem &66
+pos 3
+dimension 100
+uid 106,0
+)
+*79 (MRCItem
+litem &67
+pos 4
+dimension 50
+uid 107,0
+)
+*80 (MRCItem
+litem &68
+pos 5
+dimension 50
+uid 108,0
+)
+*81 (MRCItem
+litem &69
+pos 6
+dimension 80
+uid 109,0
+)
+]
+)
+fixedCol 3
+fixedRow 2
+name "Ports"
+uid 97,0
+vaOverrides [
+]
+)
+]
+)
+uid 83,0
+type 1
+)
+activeModelName "TruthTableDiag"
+lastUid 155,0
+)

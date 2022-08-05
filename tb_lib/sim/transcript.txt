@@ -1,0 +1,756 @@
+# vsim -f hds_args.tmp -foreign "hdsInit C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll" -pli ""C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll"" 
+# Start time: 19:02:25 on Dec 06,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.numeric_std(body)
+# Loading tb_lib.tb_victory(struct)
+# Loading alien_game_lib.c6_t1_victory_effect(struct)
+# Loading alien_game_lib.c1_t2_incrementer(struct)
+# Loading alien_game_lib.c2_t2_bin_to_onehot(tbl)
+# Loading tb_lib.victory_text_test_block(testbench)
+# Loading C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 90 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 90 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+add wave  \
+sim:/tb_victory/clk \
+sim:/tb_victory/color \
+sim:/tb_victory/pixel_amount \
+sim:/tb_victory/rst_n \
+sim:/tb_victory/x_coordinate \
+sim:/tb_victory/y_coordinate
+restart
+# Loading C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 90 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 90 ns  Iteration: 0  Instance: /tb_victory/U_0
+run
+# ** Note: No BLUE value set!
+#    Time: 110 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 110 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 130 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 130 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 150 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 150 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 170 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 170 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 190 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 190 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 210 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 210 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 230 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 230 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 250 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 250 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 270 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 270 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Failure: Simulation successful!
+#    Time: 550 ns  Iteration: 0  Process: /tb_victory/U_0/clkd_proc File: D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd
+# 0
+# Break in Process clkd_proc at D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd line 98
+run
+# ** Failure: Simulation successful!
+#    Time: 570 ns  Iteration: 0  Process: /tb_victory/U_0/clkd_proc File: D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd
+# 0
+# Break in Process clkd_proc at D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd line 98
+# hds_restart
+restart -force
+# Loading tb_lib.tb_victory(struct)
+# Loading alien_game_lib.c6_t1_victory_effect_fsm(fsm)
+# Loading C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+run
+# ** Error: No X-coordinate set for data!
+#    Time: 110 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Failure: Simulation ended with errors!
+#    Time: 550 ns  Iteration: 0  Process: /tb_victory/U_0/clkd_proc File: D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd
+# 0
+# Break in Process clkd_proc at D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd line 100
+restart
+# Loading C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll
+run
+# hds_restart
+restart -force
+# Loading tb_lib.tb_victory(struct)
+# Loading alien_game_lib.c6_t1_victory_effect_fsm(fsm)
+# Loading C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+add wave  \
+sim:/tb_victory/clk \
+sim:/tb_victory/color \
+sim:/tb_victory/pixel_amount \
+sim:/tb_victory/rst_n \
+sim:/tb_victory/x_coordinate \
+sim:/tb_victory/y_coordinate
+run
+# ** Error: No X-coordinate set for data!
+#    Time: 110 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 290 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Failure: Simulation ended with errors!
+#    Time: 550 ns  Iteration: 0  Process: /tb_victory/U_0/clkd_proc File: D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd
+# 0
+# Break in Process clkd_proc at D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd line 100
+restart
+# Loading C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll
+# hds_restart
+restart -force
+# Loading tb_lib.tb_victory(struct)
+# Loading alien_game_lib.c6_t1_victory_effect_fsm(fsm)
+# Loading C:/MentorGraphics/resources/downstream/modelsim/ModelSim_32Bit.dll
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /tb_victory/U_1
+# ** Note: No BLUE value set!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 70 ns  Iteration: 0  Instance: /tb_victory/U_0
+run
+# ** Error: No X-coordinate set for data!
+#    Time: 130 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 310 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 330 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 350 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 370 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 390 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 410 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 430 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 450 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 470 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 490 ns  Iteration: 0  Instance: /tb_victory/U_0
+# 0
+# 
+run
+# ** Note: No BLUE value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 510 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No BLUE value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No GREEN value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Note: No RED value set!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No color value set at all!!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No X-coordinate set for data!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Error: No Y-coordinate set for data!
+#    Time: 530 ns  Iteration: 0  Instance: /tb_victory/U_0
+# ** Failure: Simulation ended with errors!
+#    Time: 550 ns  Iteration: 0  Process: /tb_victory/U_0/clkd_proc File: D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd
+# 0
+# Break in Process clkd_proc at D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd line 100
+run
+# ** Failure: Simulation ended with errors!
+#    Time: 570 ns  Iteration: 0  Process: /tb_victory/U_0/clkd_proc File: D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd
+# 0
+# Break in Process clkd_proc at D:/Minh/Master/Tampere/autumn_2020/Digital_Design/comp_exercises/10/alien_game/../tb_lib/hdl/victory_text_test_block_testbench.vhd line 100
+# End time: 19:47:13 on Dec 06,2020, Elapsed time: 0:44:48
+# Errors: 117, Warnings: 23

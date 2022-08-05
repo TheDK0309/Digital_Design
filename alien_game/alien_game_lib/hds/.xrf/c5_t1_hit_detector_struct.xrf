@@ -1,0 +1,167 @@
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 124,0 14 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 129,0 15 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 159,0 16 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 134,0 17 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 139,0 18 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 757,0 19 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 258,0 20 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 541,0 21 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 762,0 22 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 154,0 23 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN c5_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 30
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 169,0 39 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 0,0 45 2 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 7171,0 50 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6353,0 51 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6042,0 52 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6946,0 53 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 7140,0 54 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6313,0 55 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6341,0 56 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6347,0 57 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 62
+LIBRARY alien_game_lib
+DESIGN c5_t1_8_bit_comparator
+VIEW struct
+GRAPHIC 6281,0 64 0 
+DESIGN c5_t1_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 114,0 66 0 
+DESIGN c5_t1_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 119,0 67 0 
+DESIGN c5_t1_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 124,0 68 0 
+LIBRARY alien_game_lib
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6281,0 74 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 77
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6717,0 79 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 5705,0 90 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6937,0 93 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 7161,0 96 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6007,0 99 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 7127,0 109 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 119
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6281,0 121 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 15,0 123 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 57,0 124 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6315,0 125 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6291,0 127 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 2156,0 129 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6251,0 130 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6343,0 131 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6319,0 133 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 71,0 135 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 29,0 136 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 6349,0 137 0 
+DESIGN c5_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 140

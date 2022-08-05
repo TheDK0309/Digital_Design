@@ -1,0 +1,2 @@
+DEFAULT_FILE atom cb_t1_shield_initial_reset_fsm/fsm.sm
+DEFAULT_ARCHITECTURE atom fsm

@@ -1,0 +1,4 @@
+DIALECT atom VHDL_ANY
+INCLUDE list {
+ DEFAULT atom 1
+}

@@ -1,0 +1,177 @@
+DESIGN tb_basic_alien
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_basic_alien
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_basic_alien
+VIEW symbol.sb
+GRAPHIC 110,0 14 0 
+DESIGN tb_basic_alien
+VIEW symbol.sb
+GRAPHIC 1,0 17 0 
+DESIGN tb_basic_alien
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 21
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 41,0 30 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 33
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 0,0 37 2 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 281,0 42 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 367,0 43 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 289,0 44 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 291,0 45 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 275,0 46 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 287,0 47 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 277,0 48 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 50
+LIBRARY alien_game_lib
+DESIGN c2_t6_basic_alien
+VIEW struct
+GRAPHIC 919,0 52 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 134,0 54 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 124,0 55 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 129,0 56 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 139,0 57 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 154,0 58 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 1038,0 59 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 144,0 60 0 
+DESIGN c2_t6_basic_alien
+VIEW symbol.sb
+GRAPHIC 159,0 61 0 
+LIBRARY tb_lib
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 540,0 64 0 
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 61,0 66 0 
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 66,0 67 0 
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 56,0 68 0 
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 51,0 69 0 
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 71,0 70 0 
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 81,0 71 0 
+DESIGN basic_alien_tester
+VIEW testbench
+GRAPHIC 76,0 72 0 
+LIBRARY tb_lib
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 540,0 78 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 919,0 79 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 82
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 919,0 86 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 237,0 88 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 249,0 89 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 241,0 90 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 263,0 91 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 488,0 92 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 496,0 93 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 504,0 94 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 881,0 95 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 540,0 97 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 496,0 99 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 504,0 100 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 488,0 101 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 237,0 102 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 249,0 103 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 263,0 104 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+GRAPHIC 241,0 105 0 
+DESIGN tb_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 108

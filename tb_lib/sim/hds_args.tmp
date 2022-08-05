@@ -1,0 +1,1 @@
+ -L tb_lib -L alien_game_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays tb_lib.tb_victory(struct)
